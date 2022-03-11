@@ -114,7 +114,6 @@
 				3C57F3C727DA3CBF008591A7 /* View */,
 				3C57F3C827DA3CD5008591A7 /* Model */,
 				3C57F3C927DA3CEB008591A7 /* Resource */,
-				3C57F3C127DA3611008591A7 /* landmarkData.json */,
 				3C57F39927D8FD90008591A7 /* Preview Content */,
 			);
 			path = SwiftUI_1;
@@ -171,6 +170,7 @@
 			isa = PBXGroup;
 			children = (
 				3C57F39727D8FD90008591A7 /* Assets.xcassets */,
+				3C57F3C127DA3611008591A7 /* landmarkData.json */,
 			);
 			path = Resource;
 			sourceTree = "<group>";
